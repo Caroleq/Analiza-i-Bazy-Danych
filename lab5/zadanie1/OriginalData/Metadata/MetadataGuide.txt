@@ -1,0 +1,8 @@
+Metadane dla weather.txt
+Plik zawiera dane dotyczące pogody. Pierwszą kolumnę stanowi stały literał: MX000017004, po którym następują rok oraz miesiąc oraz typ pomiaru: 
+wielkość opadów (PRCP), temperatura maksymalna (TMAX) lub temperatura minimalna (TMIN).
+W kolejnych kolumnach zawarte zostały dane dotyczące tych pomiaróœ dla poszczególnych dni d1 - d31.
+
+Dane błędne zostały oznaczone jako -9999. 
+
+Separatorami dla wartości opadów oraz skrajnych wartości temepratur były znaki I lub S.
