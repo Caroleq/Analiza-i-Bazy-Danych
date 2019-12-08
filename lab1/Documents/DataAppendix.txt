@@ -1,0 +1,20 @@
+
+Skrypt generujący dane: LAB1.ipynb
+
+Opis zmiennych:
+columns - zawiera nazwy kolumn dla zbioru danych
+Orginalny plik tekstowy nie posiada kolumn
+
+weathertxt - obiekt związany z plikie 'weather.txt'
+Umożliwia czytanie z pliku.
+
+csv - lista zwierająca odpowiednio zmodyfikowane linie pliku tekstowego
+Przechowuje linie pliku tekstowego po modyfikacjach umożliwiających przechowywanie csv.
+
+df - ramka danych (Data Frame) przechowująca dane w formacie csv
+Wykorzystywana do przechowywania danych oraz przetwarzająca te dane.
+
+
+lookup - pomocnicza ramka danych zawierająca część kolumn
+Tymczasowo przechowuje część kolumn. Zostaje włączona do ramki wyjąciowej
+
